@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/j0131n/poc-node-canvas-image-uploader#readme",
   "dependencies": {
+    "canvas": "^2.8.0",
     "express": "^4.17.1"
   }
 }
