@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/j0131n/poc-node-canvas-image-uploader/issues"
   },
-  "homepage": "https://github.com/j0131n/poc-node-canvas-image-uploader#readme"
+  "homepage": "https://github.com/j0131n/poc-node-canvas-image-uploader#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
